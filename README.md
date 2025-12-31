@@ -15,13 +15,10 @@
 
 ## 📱 Ekran Görüntüleri
 
-<p align="center">
+
   <img src="https://github.com/user-attachments/assets/72180574-f773-4a37-aad3-4e0099bf14c6" width="280" alt="Giriş Ekranı">
   <img src="https://github.com/user-attachments/assets/8b20e4ec-0afd-4266-a105-5a6f5cba78e6" width="285" alt="Ürün Listesi">
   <img src="https://github.com/user-attachments/assets/f6adbea1-0b4e-495a-b047-0de3a7a8078c" width="290" alt="Sepete Ekle"/>
-
-  
-</p>
 
 ---
 
